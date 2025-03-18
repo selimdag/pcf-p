@@ -1,0 +1,130 @@
+{
+    "entities": [
+        {
+            "@odata.etag": "W/\"316764449\"",
+            "name": "Achenbach",
+            "accountid": "9d75d0dc-f656-ee11-be6e-6045bd8c56af"
+        },
+        {
+            "@odata.etag": "W/\"316558485\"",
+            "name": "Achenbach Barth",
+            "accountid": "ed60fce8-f656-ee11-be6e-000d3abe446a"
+        },
+        {
+            "@odata.etag": "W/\"316866779\"",
+            "name": "Adolph",
+            "accountid": "d86e43d4-f656-ee11-be6e-6045bd8c5c03"
+        },
+        {
+            "@odata.etag": "W/\"316637573\"",
+            "name": "Ahr",
+            "accountid": "c5dbb7bb-f656-ee11-be6e-6045bd8c5101"
+        },
+        {
+            "@odata.etag": "W/\"316637663\"",
+            "name": "Ahr",
+            "accountid": "2a6547d4-f656-ee11-be6e-6045bd8c5101"
+        },
+        {
+            "@odata.etag": "W/\"316637714\"",
+            "name": "Ahr",
+            "accountid": "48a13ee6-f656-ee11-be6e-6045bd8c5101"
+        },
+        {
+            "@odata.etag": "W/\"316764417\"",
+            "name": "Ahr",
+            "accountid": "8330d8d6-f656-ee11-be6e-6045bd8c56af"
+        },
+        {
+            "@odata.etag": "W/\"316866849\"",
+            "name": "Ahr",
+            "accountid": "8a6a36e0-f656-ee11-be6e-6045bd8c5c03"
+        },
+        {
+            "@odata.etag": "W/\"316637586\"",
+            "name": "Ahrens",
+            "accountid": "9b891dc8-f656-ee11-be6e-6045bd8c5101"
+        },
+        {
+            "@odata.etag": "W/\"316637551\"",
+            "name": "AIG Malaysia Insurance Berhad",
+            "accountid": "5c4a015a-8a80-ed11-81ad-6045bd8c5101"
+        },
+        {
+            "@odata.etag": "W/\"316866828\"",
+            "name": "Aigner",
+            "accountid": "e3c13bda-f656-ee11-be6e-6045bd8c5c03"
+        },
+        {
+            "@odata.etag": "W/\"316764382\"",
+            "name": "Albrecht Eckert",
+            "accountid": "39e9dfd0-f656-ee11-be6e-6045bd8c56af"
+        },
+        {
+            "@odata.etag": "W/\"316637716\"",
+            "name": "Alexander Witt",
+            "accountid": "e0a13ee6-f656-ee11-be6e-6045bd8c5101"
+        },
+        {
+            "@odata.etag": "W/\"316461262\"",
+            "name": "Allianz",
+            "accountid": "0d26ebef-92ae-ed11-aad0-000d3a46fa10"
+        },
+        {
+            "@odata.etag": "W/\"316461158\"",
+            "name": "Allianz Bulgaria",
+            "accountid": "f580b4c2-209f-ea11-a812-000d3a200b79"
+        },
+        {
+            "@odata.etag": "W/\"316558494\"",
+            "name": "Althaus",
+            "accountid": "a963fce8-f656-ee11-be6e-000d3abe446a"
+        },
+        {
+            "@odata.etag": "W/\"316558490\"",
+            "name": "Andre",
+            "accountid": "7062fce8-f656-ee11-be6e-000d3abe446a"
+        },
+        {
+            "@odata.etag": "W/\"316731850\"",
+            "name": "Andre",
+            "accountid": "7cd7bbd3-f656-ee11-be6f-6045bd8c5672"
+        },
+        {
+            "@odata.etag": "W/\"316731799\"",
+            "name": "Andy Bozkurt Enrico Piel Ltd.",
+            "accountid": "659fb7cd-f656-ee11-be6f-6045bd8c5672"
+        },
+        {
+            "@odata.etag": "W/\"316731817\"",
+            "name": "Arens",
+            "accountid": "bfa4b7cd-f656-ee11-be6f-6045bd8c5672"
+        },
+        {
+            "@odata.etag": "W/\"316834483\"",
+            "name": "Arno Kunkel AG",
+            "accountid": "1a52caed-f656-ee11-be6e-6045bd8c5a58"
+        },
+        {
+            "@odata.etag": "W/\"316637623\"",
+            "name": "Aslan",
+            "accountid": "9c941dc8-f656-ee11-be6e-6045bd8c5101"
+        },
+        {
+            "@odata.etag": "W/\"316637549\"",
+            "name": "AssetInsure Pty Ltd",
+            "accountid": "590a0454-8a80-ed11-81ad-6045bd8c5101"
+        },
+        {
+            "@odata.etag": "W/\"316461237\"",
+            "name": "Atrialis Gmbh",
+            "accountid": "1da8dd16-3780-ed11-81ac-000d3a46fa10"
+        },
+        {
+            "@odata.etag": "W/\"316764421\"",
+            "name": "Auer Auer",
+            "accountid": "be31d8d6-f656-ee11-be6e-6045bd8c56af"
+        }
+    ]
+}
+

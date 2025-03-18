@@ -1,0 +1,81 @@
+div.hdi_header {
+  border-top: solid #016728 5px;
+  background-color: white;
+  height: 80px;
+  display: flex;
+  align-items: center;
+}
+
+.link-hover-effect {
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.link-hover-effect:hover {
+  text-decoration: underline!important; 
+}
+
+
+div[role=tablist] .is-selected {
+  background-color: #efefef;
+  font-weight: bold;
+  color: black;
+}
+
+div[role=tablist] {
+  display: flex;
+}
+
+div[role=tablist] button {
+    flex-grow: 1;
+    flex-basis: 0;
+    background-color: #efefef;
+    border-top: solid #e2e2e2 4px;
+    padding: 0;
+}
+div[role=tablist] button:active > span {
+  position: initial!important;
+  color:rgb(50, 49, 48);
+}
+
+div[role=tablist] button > span {
+  margin-top: -26px;
+}
+
+div[role=tablist] span  {
+  line-height: initial;
+}
+
+.hdi_tab {
+  width: 100%;
+}
+
+.hdi_icon {
+  font-size: 20px;
+  display: block;
+  height: 20px;
+  background: white;
+  width: 20px;
+  margin: 0px auto;
+  border-radius: 15px;
+  box-sizing: border-box;
+  position: relative;
+  z-index: 1;
+}
+
+div[role=tablist] button:first-of-type .hdi_tab::before {
+  display: none;
+  content: "";
+}
+
+
+.hdi_tab::before {
+  content: " ";
+  background-color: #8a8886;
+  height: 4px;
+  top: -4px;
+  position: absolute;
+  right: 50%;
+  width: 100%;
+}
+

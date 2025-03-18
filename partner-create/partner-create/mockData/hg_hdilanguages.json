@@ -1,0 +1,1103 @@
+{
+    "@odata.context": "https://talanxew-hg-dev.crm4.dynamics.com/api/data/v9.2/$metadata#hg_hdilanguages(hg_name,hg_iso_alpha_3_str)",
+    "value": [
+        {
+            "@odata.etag": "W/\"181552307\"",
+            "hg_name": "Abkhazian",
+            "hg_iso_alpha_3_str": "ABK",
+            "hg_hdilanguageid": "6351f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552309\"",
+            "hg_name": "Afar",
+            "hg_iso_alpha_3_str": "AAR",
+            "hg_hdilanguageid": "6551f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552310\"",
+            "hg_name": "Afrikaans",
+            "hg_iso_alpha_3_str": "AFR",
+            "hg_hdilanguageid": "6751f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552311\"",
+            "hg_name": "Akan",
+            "hg_iso_alpha_3_str": "AKA",
+            "hg_hdilanguageid": "6951f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552312\"",
+            "hg_name": "Albanian",
+            "hg_iso_alpha_3_str": "SQI",
+            "hg_hdilanguageid": "6b51f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552313\"",
+            "hg_name": "Amharic",
+            "hg_iso_alpha_3_str": "AMH",
+            "hg_hdilanguageid": "6d51f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552314\"",
+            "hg_name": "Arabic",
+            "hg_iso_alpha_3_str": "ARA",
+            "hg_hdilanguageid": "6f51f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552315\"",
+            "hg_name": "Aragonese",
+            "hg_iso_alpha_3_str": "ARG",
+            "hg_hdilanguageid": "7151f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552316\"",
+            "hg_name": "Assamese",
+            "hg_iso_alpha_3_str": "ASM",
+            "hg_hdilanguageid": "7551f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552317\"",
+            "hg_name": "Avaric",
+            "hg_iso_alpha_3_str": "AVA",
+            "hg_hdilanguageid": "7751f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552318\"",
+            "hg_name": "Avestan",
+            "hg_iso_alpha_3_str": "AVE",
+            "hg_hdilanguageid": "7951f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552319\"",
+            "hg_name": "Aymara",
+            "hg_iso_alpha_3_str": "AYM",
+            "hg_hdilanguageid": "7b51f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552320\"",
+            "hg_name": "Azerbaijani",
+            "hg_iso_alpha_3_str": "AZE",
+            "hg_hdilanguageid": "7d51f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552321\"",
+            "hg_name": "Bambara",
+            "hg_iso_alpha_3_str": "BAM",
+            "hg_hdilanguageid": "7f51f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552322\"",
+            "hg_name": "Bashkir",
+            "hg_iso_alpha_3_str": "BAK",
+            "hg_hdilanguageid": "8151f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552323\"",
+            "hg_name": "Basque",
+            "hg_iso_alpha_3_str": "EUS",
+            "hg_hdilanguageid": "8351f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552324\"",
+            "hg_name": "Belarusian",
+            "hg_iso_alpha_3_str": "BEL",
+            "hg_hdilanguageid": "8551f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552325\"",
+            "hg_name": "Bengali",
+            "hg_iso_alpha_3_str": "BEN",
+            "hg_hdilanguageid": "8751f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552326\"",
+            "hg_name": "Bislama",
+            "hg_iso_alpha_3_str": "BIS",
+            "hg_hdilanguageid": "8951f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552327\"",
+            "hg_name": "Bosnian",
+            "hg_iso_alpha_3_str": "BOS",
+            "hg_hdilanguageid": "8b51f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552328\"",
+            "hg_name": "Breton",
+            "hg_iso_alpha_3_str": "BRE",
+            "hg_hdilanguageid": "8d51f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552329\"",
+            "hg_name": "Bulgarian",
+            "hg_iso_alpha_3_str": "BUL",
+            "hg_hdilanguageid": "8f51f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552330\"",
+            "hg_name": "Burmese",
+            "hg_iso_alpha_3_str": "MYA",
+            "hg_hdilanguageid": "9151f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552331\"",
+            "hg_name": "Catalan, Valencian",
+            "hg_iso_alpha_3_str": "CAT",
+            "hg_hdilanguageid": "9351f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552332\"",
+            "hg_name": "Central Khmer",
+            "hg_iso_alpha_3_str": "KHM",
+            "hg_hdilanguageid": "9551f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552333\"",
+            "hg_name": "Chamorro",
+            "hg_iso_alpha_3_str": "CHA",
+            "hg_hdilanguageid": "9751f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552334\"",
+            "hg_name": "Chechen",
+            "hg_iso_alpha_3_str": "CHE",
+            "hg_hdilanguageid": "9951f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552335\"",
+            "hg_name": "Chichewa, Chewa, Nyanja",
+            "hg_iso_alpha_3_str": "NYA",
+            "hg_hdilanguageid": "9b51f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552336\"",
+            "hg_name": "Chinese",
+            "hg_iso_alpha_3_str": "ZHO",
+            "hg_hdilanguageid": "9d51f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552337\"",
+            "hg_name": "Church Slavic, Old Slavonic, Church Slavonic, Old Bulgarian, Old Church Slavonic",
+            "hg_iso_alpha_3_str": "CHU",
+            "hg_hdilanguageid": "9f51f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552338\"",
+            "hg_name": "Chuvash",
+            "hg_iso_alpha_3_str": "CHV",
+            "hg_hdilanguageid": "a151f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552339\"",
+            "hg_name": "Cornish",
+            "hg_iso_alpha_3_str": "COR",
+            "hg_hdilanguageid": "a351f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552340\"",
+            "hg_name": "Corsican",
+            "hg_iso_alpha_3_str": "COS",
+            "hg_hdilanguageid": "a551f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552341\"",
+            "hg_name": "Cree",
+            "hg_iso_alpha_3_str": "CRE",
+            "hg_hdilanguageid": "a751f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552342\"",
+            "hg_name": "Croatian",
+            "hg_iso_alpha_3_str": "HRV",
+            "hg_hdilanguageid": "a951f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552343\"",
+            "hg_name": "Czech",
+            "hg_iso_alpha_3_str": "CES",
+            "hg_hdilanguageid": "ab51f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552344\"",
+            "hg_name": "Danish",
+            "hg_iso_alpha_3_str": "DAN",
+            "hg_hdilanguageid": "ad51f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552345\"",
+            "hg_name": "Divehi, Dhivehi, Maldivian",
+            "hg_iso_alpha_3_str": "DIV",
+            "hg_hdilanguageid": "af51f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552346\"",
+            "hg_name": "Dutch, Flemish",
+            "hg_iso_alpha_3_str": "NLD",
+            "hg_hdilanguageid": "b151f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552347\"",
+            "hg_name": "Dzongkha",
+            "hg_iso_alpha_3_str": "DZO",
+            "hg_hdilanguageid": "b351f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552348\"",
+            "hg_name": "English",
+            "hg_iso_alpha_3_str": "ENG",
+            "hg_hdilanguageid": "b551f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552349\"",
+            "hg_name": "Esperanto",
+            "hg_iso_alpha_3_str": "EPO",
+            "hg_hdilanguageid": "b751f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552351\"",
+            "hg_name": "Estonian",
+            "hg_iso_alpha_3_str": "EST",
+            "hg_hdilanguageid": "b951f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552352\"",
+            "hg_name": "Ewe",
+            "hg_iso_alpha_3_str": "EWE",
+            "hg_hdilanguageid": "bb51f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552353\"",
+            "hg_name": "Faroese",
+            "hg_iso_alpha_3_str": "FAO",
+            "hg_hdilanguageid": "bd51f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552354\"",
+            "hg_name": "Fijian",
+            "hg_iso_alpha_3_str": "FIJ",
+            "hg_hdilanguageid": "bf51f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552355\"",
+            "hg_name": "Finnish",
+            "hg_iso_alpha_3_str": "FIN",
+            "hg_hdilanguageid": "c151f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552356\"",
+            "hg_name": "French",
+            "hg_iso_alpha_3_str": "FRA",
+            "hg_hdilanguageid": "c351f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552357\"",
+            "hg_name": "Fulah",
+            "hg_iso_alpha_3_str": "FUL",
+            "hg_hdilanguageid": "c551f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552358\"",
+            "hg_name": "Gaelic, Scottish Gaelic",
+            "hg_iso_alpha_3_str": "GLA",
+            "hg_hdilanguageid": "c751f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552359\"",
+            "hg_name": "Galician",
+            "hg_iso_alpha_3_str": "GLG",
+            "hg_hdilanguageid": "c951f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552360\"",
+            "hg_name": "Ganda",
+            "hg_iso_alpha_3_str": "LUG",
+            "hg_hdilanguageid": "cb51f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552361\"",
+            "hg_name": "Georgian",
+            "hg_iso_alpha_3_str": "KAT",
+            "hg_hdilanguageid": "cd51f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552362\"",
+            "hg_name": "German",
+            "hg_iso_alpha_3_str": "DEU",
+            "hg_hdilanguageid": "cf51f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552363\"",
+            "hg_name": "Greek, Modern (1453–)",
+            "hg_iso_alpha_3_str": "ELL",
+            "hg_hdilanguageid": "d151f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552364\"",
+            "hg_name": "Guarani",
+            "hg_iso_alpha_3_str": "GRN",
+            "hg_hdilanguageid": "d351f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552365\"",
+            "hg_name": "Gujarati",
+            "hg_iso_alpha_3_str": "GUJ",
+            "hg_hdilanguageid": "d551f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552366\"",
+            "hg_name": "Haitian, Haitian Creole",
+            "hg_iso_alpha_3_str": "HAT",
+            "hg_hdilanguageid": "d751f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552367\"",
+            "hg_name": "Hausa",
+            "hg_iso_alpha_3_str": "HAU",
+            "hg_hdilanguageid": "d951f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552368\"",
+            "hg_name": "Hebrew",
+            "hg_iso_alpha_3_str": "HEB",
+            "hg_hdilanguageid": "db51f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552369\"",
+            "hg_name": "Herero",
+            "hg_iso_alpha_3_str": "HER",
+            "hg_hdilanguageid": "dd51f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552370\"",
+            "hg_name": "Hindi",
+            "hg_iso_alpha_3_str": "HIN",
+            "hg_hdilanguageid": "df51f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552371\"",
+            "hg_name": "Hiri Motu",
+            "hg_iso_alpha_3_str": "HMO",
+            "hg_hdilanguageid": "e151f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552372\"",
+            "hg_name": "Hungarian",
+            "hg_iso_alpha_3_str": "HUN",
+            "hg_hdilanguageid": "e351f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552373\"",
+            "hg_name": "Icelandic",
+            "hg_iso_alpha_3_str": "ISL",
+            "hg_hdilanguageid": "e551f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552374\"",
+            "hg_name": "Ido",
+            "hg_iso_alpha_3_str": "IDO",
+            "hg_hdilanguageid": "e751f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552375\"",
+            "hg_name": "Igbo",
+            "hg_iso_alpha_3_str": "IBO",
+            "hg_hdilanguageid": "e951f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552376\"",
+            "hg_name": "Indonesian",
+            "hg_iso_alpha_3_str": "IND",
+            "hg_hdilanguageid": "eb51f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552377\"",
+            "hg_name": "Interlingua (International Auxiliary Language Association)",
+            "hg_iso_alpha_3_str": "INA",
+            "hg_hdilanguageid": "ed51f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552378\"",
+            "hg_name": "Interlingue, Occidental",
+            "hg_iso_alpha_3_str": "ILE",
+            "hg_hdilanguageid": "ef51f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552379\"",
+            "hg_name": "Inuktitut",
+            "hg_iso_alpha_3_str": "IKU",
+            "hg_hdilanguageid": "f151f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552380\"",
+            "hg_name": "Inupiaq",
+            "hg_iso_alpha_3_str": "IPK",
+            "hg_hdilanguageid": "f351f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552381\"",
+            "hg_name": "Irish",
+            "hg_iso_alpha_3_str": "GLE",
+            "hg_hdilanguageid": "f551f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552382\"",
+            "hg_name": "Italian",
+            "hg_iso_alpha_3_str": "ITA",
+            "hg_hdilanguageid": "f751f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552383\"",
+            "hg_name": "Japanese",
+            "hg_iso_alpha_3_str": "JPN",
+            "hg_hdilanguageid": "f951f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552385\"",
+            "hg_name": "Javanese",
+            "hg_iso_alpha_3_str": "JAV",
+            "hg_hdilanguageid": "fb51f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552386\"",
+            "hg_name": "Kalaallisut, Greenlandic",
+            "hg_iso_alpha_3_str": "KAL",
+            "hg_hdilanguageid": "fd51f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552387\"",
+            "hg_name": "Kannada",
+            "hg_iso_alpha_3_str": "KAN",
+            "hg_hdilanguageid": "ff51f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552388\"",
+            "hg_name": "Kanuri",
+            "hg_iso_alpha_3_str": "KAU",
+            "hg_hdilanguageid": "0152f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552389\"",
+            "hg_name": "Kashmiri",
+            "hg_iso_alpha_3_str": "KAS",
+            "hg_hdilanguageid": "0352f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552390\"",
+            "hg_name": "Kazakh",
+            "hg_iso_alpha_3_str": "KAZ",
+            "hg_hdilanguageid": "0552f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552391\"",
+            "hg_name": "Kikuyu, Gikuyu",
+            "hg_iso_alpha_3_str": "KIK",
+            "hg_hdilanguageid": "0752f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552393\"",
+            "hg_name": "Kinyarwanda",
+            "hg_iso_alpha_3_str": "KIN",
+            "hg_hdilanguageid": "0952f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552394\"",
+            "hg_name": "Kirghiz, Kyrgyz",
+            "hg_iso_alpha_3_str": "KIR",
+            "hg_hdilanguageid": "0b52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552395\"",
+            "hg_name": "Komi",
+            "hg_iso_alpha_3_str": "KOM",
+            "hg_hdilanguageid": "0d52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552396\"",
+            "hg_name": "Kongo",
+            "hg_iso_alpha_3_str": "KON",
+            "hg_hdilanguageid": "0f52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552397\"",
+            "hg_name": "Korean",
+            "hg_iso_alpha_3_str": "KOR",
+            "hg_hdilanguageid": "1152f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552398\"",
+            "hg_name": "Kuanyama, Kwanyama",
+            "hg_iso_alpha_3_str": "KUA",
+            "hg_hdilanguageid": "1352f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552399\"",
+            "hg_name": "Kurdish",
+            "hg_iso_alpha_3_str": "KUR",
+            "hg_hdilanguageid": "1552f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552400\"",
+            "hg_name": "Lao",
+            "hg_iso_alpha_3_str": "LAO",
+            "hg_hdilanguageid": "1752f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552401\"",
+            "hg_name": "Latin",
+            "hg_iso_alpha_3_str": "LAT",
+            "hg_hdilanguageid": "1952f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552402\"",
+            "hg_name": "Latvian",
+            "hg_iso_alpha_3_str": "LAV",
+            "hg_hdilanguageid": "1b52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552403\"",
+            "hg_name": "Limburgan, Limburger, Limburgish",
+            "hg_iso_alpha_3_str": "LIM",
+            "hg_hdilanguageid": "1d52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552404\"",
+            "hg_name": "Lingala",
+            "hg_iso_alpha_3_str": "LIN",
+            "hg_hdilanguageid": "1f52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552405\"",
+            "hg_name": "Lithuanian",
+            "hg_iso_alpha_3_str": "LIT",
+            "hg_hdilanguageid": "2152f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552406\"",
+            "hg_name": "Luba-Katanga",
+            "hg_iso_alpha_3_str": "LUB",
+            "hg_hdilanguageid": "2352f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552407\"",
+            "hg_name": "Luxembourgish, Letzeburgesch",
+            "hg_iso_alpha_3_str": "LTZ",
+            "hg_hdilanguageid": "2552f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552408\"",
+            "hg_name": "Macedonian",
+            "hg_iso_alpha_3_str": "MKD",
+            "hg_hdilanguageid": "2752f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552409\"",
+            "hg_name": "Malagasy",
+            "hg_iso_alpha_3_str": "MLG",
+            "hg_hdilanguageid": "2952f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552410\"",
+            "hg_name": "Malay",
+            "hg_iso_alpha_3_str": "MSA",
+            "hg_hdilanguageid": "2b52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552411\"",
+            "hg_name": "Malayalam",
+            "hg_iso_alpha_3_str": "MAL",
+            "hg_hdilanguageid": "2d52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552412\"",
+            "hg_name": "Maltese",
+            "hg_iso_alpha_3_str": "MLT",
+            "hg_hdilanguageid": "2f52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552413\"",
+            "hg_name": "Manx",
+            "hg_iso_alpha_3_str": "GLV",
+            "hg_hdilanguageid": "3152f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552414\"",
+            "hg_name": "Maori",
+            "hg_iso_alpha_3_str": "MRI",
+            "hg_hdilanguageid": "3352f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552415\"",
+            "hg_name": "Marathi",
+            "hg_iso_alpha_3_str": "MAR",
+            "hg_hdilanguageid": "3552f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552416\"",
+            "hg_name": "Marshallese",
+            "hg_iso_alpha_3_str": "MAH",
+            "hg_hdilanguageid": "3752f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552417\"",
+            "hg_name": "Mongolian",
+            "hg_iso_alpha_3_str": "MON",
+            "hg_hdilanguageid": "3952f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552418\"",
+            "hg_name": "Nauru",
+            "hg_iso_alpha_3_str": "NAU",
+            "hg_hdilanguageid": "3b52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552419\"",
+            "hg_name": "Navajo, Navaho",
+            "hg_iso_alpha_3_str": "NAV",
+            "hg_hdilanguageid": "3d52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552420\"",
+            "hg_name": "Ndonga",
+            "hg_iso_alpha_3_str": "NDO",
+            "hg_hdilanguageid": "3f52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552421\"",
+            "hg_name": "Nepali",
+            "hg_iso_alpha_3_str": "NEP",
+            "hg_hdilanguageid": "4152f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552422\"",
+            "hg_name": "North Ndebele",
+            "hg_iso_alpha_3_str": "NDE",
+            "hg_hdilanguageid": "4352f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552423\"",
+            "hg_name": "Northern Sami",
+            "hg_iso_alpha_3_str": "SME",
+            "hg_hdilanguageid": "4552f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552424\"",
+            "hg_name": "Norwegian",
+            "hg_iso_alpha_3_str": "NOR",
+            "hg_hdilanguageid": "4752f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552425\"",
+            "hg_name": "Norwegian Bokmål",
+            "hg_iso_alpha_3_str": "NOB",
+            "hg_hdilanguageid": "4952f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552426\"",
+            "hg_name": "Norwegian Nynorsk",
+            "hg_iso_alpha_3_str": "NNO",
+            "hg_hdilanguageid": "4b52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552427\"",
+            "hg_name": "Occitan",
+            "hg_iso_alpha_3_str": "OCI",
+            "hg_hdilanguageid": "4d52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552428\"",
+            "hg_name": "Ojibwa",
+            "hg_iso_alpha_3_str": "OJI",
+            "hg_hdilanguageid": "4f52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552429\"",
+            "hg_name": "Oriya",
+            "hg_iso_alpha_3_str": "ORI",
+            "hg_hdilanguageid": "5152f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552430\"",
+            "hg_name": "Oromo",
+            "hg_iso_alpha_3_str": "ORM",
+            "hg_hdilanguageid": "5352f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552431\"",
+            "hg_name": "Ossetian, Ossetic",
+            "hg_iso_alpha_3_str": "OSS",
+            "hg_hdilanguageid": "5552f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552433\"",
+            "hg_name": "Pali",
+            "hg_iso_alpha_3_str": "PLI",
+            "hg_hdilanguageid": "5752f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552434\"",
+            "hg_name": "Pashto, Pushto",
+            "hg_iso_alpha_3_str": "PUS",
+            "hg_hdilanguageid": "5952f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552435\"",
+            "hg_name": "Persian",
+            "hg_iso_alpha_3_str": "FAS",
+            "hg_hdilanguageid": "5b52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552436\"",
+            "hg_name": "Polish",
+            "hg_iso_alpha_3_str": "POL",
+            "hg_hdilanguageid": "5d52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552437\"",
+            "hg_name": "Portuguese",
+            "hg_iso_alpha_3_str": "POR",
+            "hg_hdilanguageid": "5f52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552438\"",
+            "hg_name": "Punjabi, Panjabi",
+            "hg_iso_alpha_3_str": "PAN",
+            "hg_hdilanguageid": "6152f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552439\"",
+            "hg_name": "Quechua",
+            "hg_iso_alpha_3_str": "QUE",
+            "hg_hdilanguageid": "6352f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552440\"",
+            "hg_name": "Romanian, Moldavian, Moldovan",
+            "hg_iso_alpha_3_str": "RON",
+            "hg_hdilanguageid": "6552f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552441\"",
+            "hg_name": "Romansh",
+            "hg_iso_alpha_3_str": "ROH",
+            "hg_hdilanguageid": "6752f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552442\"",
+            "hg_name": "Rundi",
+            "hg_iso_alpha_3_str": "RUN",
+            "hg_hdilanguageid": "6952f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552443\"",
+            "hg_name": "Russian",
+            "hg_iso_alpha_3_str": "RUS",
+            "hg_hdilanguageid": "6b52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552444\"",
+            "hg_name": "Samoan",
+            "hg_iso_alpha_3_str": "SMO",
+            "hg_hdilanguageid": "6d52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552445\"",
+            "hg_name": "Sango",
+            "hg_iso_alpha_3_str": "SAG",
+            "hg_hdilanguageid": "6f52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552446\"",
+            "hg_name": "Sanskrit",
+            "hg_iso_alpha_3_str": "SAN",
+            "hg_hdilanguageid": "7152f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552447\"",
+            "hg_name": "Sardinian",
+            "hg_iso_alpha_3_str": "SRD",
+            "hg_hdilanguageid": "7352f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552448\"",
+            "hg_name": "Serbian",
+            "hg_iso_alpha_3_str": "SRP",
+            "hg_hdilanguageid": "7552f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552449\"",
+            "hg_name": "Shona",
+            "hg_iso_alpha_3_str": "SNA",
+            "hg_hdilanguageid": "7752f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552450\"",
+            "hg_name": "Sichuan Yi, Nuosu",
+            "hg_iso_alpha_3_str": "III",
+            "hg_hdilanguageid": "7952f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552451\"",
+            "hg_name": "Sindhi",
+            "hg_iso_alpha_3_str": "SND",
+            "hg_hdilanguageid": "7b52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552452\"",
+            "hg_name": "Sinhala, Sinhalese",
+            "hg_iso_alpha_3_str": "SIN",
+            "hg_hdilanguageid": "7d52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552453\"",
+            "hg_name": "Slovak",
+            "hg_iso_alpha_3_str": "SLK",
+            "hg_hdilanguageid": "7f52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552454\"",
+            "hg_name": "Slovenian",
+            "hg_iso_alpha_3_str": "SLV",
+            "hg_hdilanguageid": "8152f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552455\"",
+            "hg_name": "Somali",
+            "hg_iso_alpha_3_str": "SOM",
+            "hg_hdilanguageid": "8352f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552456\"",
+            "hg_name": "South Ndebele",
+            "hg_iso_alpha_3_str": "NBL",
+            "hg_hdilanguageid": "8552f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552457\"",
+            "hg_name": "Southern Sotho",
+            "hg_iso_alpha_3_str": "SOT",
+            "hg_hdilanguageid": "8752f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552458\"",
+            "hg_name": "Spanish, Castilian",
+            "hg_iso_alpha_3_str": "SPA",
+            "hg_hdilanguageid": "8952f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552459\"",
+            "hg_name": "Sundanese",
+            "hg_iso_alpha_3_str": "SUN",
+            "hg_hdilanguageid": "8b52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552460\"",
+            "hg_name": "Swahili",
+            "hg_iso_alpha_3_str": "SWA",
+            "hg_hdilanguageid": "8d52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552461\"",
+            "hg_name": "Swati",
+            "hg_iso_alpha_3_str": "SSW",
+            "hg_hdilanguageid": "8f52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552462\"",
+            "hg_name": "Swedish",
+            "hg_iso_alpha_3_str": "SWE",
+            "hg_hdilanguageid": "9152f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552463\"",
+            "hg_name": "Tagalog",
+            "hg_iso_alpha_3_str": "TGL",
+            "hg_hdilanguageid": "9352f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552464\"",
+            "hg_name": "Tahitian",
+            "hg_iso_alpha_3_str": "TAH",
+            "hg_hdilanguageid": "9552f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552465\"",
+            "hg_name": "Tajik",
+            "hg_iso_alpha_3_str": "TGK",
+            "hg_hdilanguageid": "9752f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552466\"",
+            "hg_name": "Tamil",
+            "hg_iso_alpha_3_str": "TAM",
+            "hg_hdilanguageid": "9952f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552467\"",
+            "hg_name": "Tatar",
+            "hg_iso_alpha_3_str": "TAT",
+            "hg_hdilanguageid": "9b52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552468\"",
+            "hg_name": "Telugu",
+            "hg_iso_alpha_3_str": "TEL",
+            "hg_hdilanguageid": "9d52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552469\"",
+            "hg_name": "Thai",
+            "hg_iso_alpha_3_str": "THA",
+            "hg_hdilanguageid": "9f52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552470\"",
+            "hg_name": "Tibetan",
+            "hg_iso_alpha_3_str": "BOD",
+            "hg_hdilanguageid": "a152f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552471\"",
+            "hg_name": "Tigrinya",
+            "hg_iso_alpha_3_str": "TIR",
+            "hg_hdilanguageid": "a352f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552472\"",
+            "hg_name": "Tonga (Tonga Islands)",
+            "hg_iso_alpha_3_str": "TON",
+            "hg_hdilanguageid": "a552f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552473\"",
+            "hg_name": "Tsonga",
+            "hg_iso_alpha_3_str": "TSO",
+            "hg_hdilanguageid": "a752f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552474\"",
+            "hg_name": "Tswana",
+            "hg_iso_alpha_3_str": "TSN",
+            "hg_hdilanguageid": "a952f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552476\"",
+            "hg_name": "Turkish",
+            "hg_iso_alpha_3_str": "TUR",
+            "hg_hdilanguageid": "ab52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552477\"",
+            "hg_name": "Turkmen",
+            "hg_iso_alpha_3_str": "TUK",
+            "hg_hdilanguageid": "ad52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552478\"",
+            "hg_name": "Twi",
+            "hg_iso_alpha_3_str": "TWI",
+            "hg_hdilanguageid": "af52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552479\"",
+            "hg_name": "Uighur, Uyghur",
+            "hg_iso_alpha_3_str": "UIG",
+            "hg_hdilanguageid": "b152f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552480\"",
+            "hg_name": "Ukrainian",
+            "hg_iso_alpha_3_str": "UKR",
+            "hg_hdilanguageid": "b352f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552481\"",
+            "hg_name": "Urdu",
+            "hg_iso_alpha_3_str": "URD",
+            "hg_hdilanguageid": "b552f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552482\"",
+            "hg_name": "Uzbek",
+            "hg_iso_alpha_3_str": "UZB",
+            "hg_hdilanguageid": "b752f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552483\"",
+            "hg_name": "Venda",
+            "hg_iso_alpha_3_str": "VEN",
+            "hg_hdilanguageid": "b952f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552484\"",
+            "hg_name": "Vietnamese",
+            "hg_iso_alpha_3_str": "VIE",
+            "hg_hdilanguageid": "bb52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552485\"",
+            "hg_name": "Volapük",
+            "hg_iso_alpha_3_str": "VOL",
+            "hg_hdilanguageid": "bd52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552486\"",
+            "hg_name": "Walloon",
+            "hg_iso_alpha_3_str": "WLN",
+            "hg_hdilanguageid": "bf52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552487\"",
+            "hg_name": "Welsh",
+            "hg_iso_alpha_3_str": "CYM",
+            "hg_hdilanguageid": "c152f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552488\"",
+            "hg_name": "Western Frisian",
+            "hg_iso_alpha_3_str": "FRY",
+            "hg_hdilanguageid": "c352f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552489\"",
+            "hg_name": "Wolof",
+            "hg_iso_alpha_3_str": "WOL",
+            "hg_hdilanguageid": "c552f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552490\"",
+            "hg_name": "Xhosa",
+            "hg_iso_alpha_3_str": "XHO",
+            "hg_hdilanguageid": "c752f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552491\"",
+            "hg_name": "Yiddish",
+            "hg_iso_alpha_3_str": "YID",
+            "hg_hdilanguageid": "c952f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552492\"",
+            "hg_name": "Yoruba",
+            "hg_iso_alpha_3_str": "YOR",
+            "hg_hdilanguageid": "cb52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552493\"",
+            "hg_name": "Zhuang, Chuang",
+            "hg_iso_alpha_3_str": "ZHA",
+            "hg_hdilanguageid": "cd52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"181552494\"",
+            "hg_name": "Zulu",
+            "hg_iso_alpha_3_str": "ZUL",
+            "hg_hdilanguageid": "cf52f431-e517-ed11-b83c-000d3aae783c"
+        },
+        {
+            "@odata.etag": "W/\"335079387\"",
+            "hg_name": "Armenian",
+            "hg_iso_alpha_3_str": "HYE",
+            "hg_hdilanguageid": "ecc9bb42-0d55-ed11-bba1-6045bd8c52cf"
+        }
+    ]
+}
